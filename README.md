@@ -1,3 +1,3 @@
-# Arduino_DLL
+#ESP8266 DLLs
 
-Esse repositório contém pastas com as DLLs C++ para projetos em Arduino.
+Essas DLLs possibilitam a conexão com uma rede wireless, servidor MQTT e utilização dos sensores MQ-5 (Sensor de Gás)...
