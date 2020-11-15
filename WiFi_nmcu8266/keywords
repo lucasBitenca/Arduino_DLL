@@ -1,0 +1,10 @@
+#Keywords p/ classe
+WiFi_nmcu8266		KEYWORD1
+
+#Keywords p/ métodos
+ConectarWiFi		KEYWORD2
+Verificarconexao	KEYWORD2
+ObterIP		        KEYWORD2
+Set_SSID		KEYWORD2
+Set_PWD		        KEYWORD2
+Set_HOST		KEYWORD2
