@@ -1,0 +1,11 @@
+#Keywords p/ classe
+MQTT_nmcu8266		KEYWORD1
+
+#Keywords p/ métodos
+ReconectarMQTT		KEYWORD2
+PublicarMQTT		KEYWORD2
+IniciarMQTT		    KEYWORD2
+Set_Broker		    KEYWORD2
+Set_PortBroker		KEYWORD2
+Set_IDMQTT		    KEYWORD2
+Set_Topico		    KEYWORD2
